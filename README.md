@@ -2,5 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :smile:
 
-- Lasanha á Bolonhesa
+- Lasanha à Bolonhesa
 - Bolo de Cenoura
+- Panqueca
